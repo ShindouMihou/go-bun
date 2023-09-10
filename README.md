@@ -2,9 +2,8 @@
 
 > **Warning!**
 > 
-> go-bun is intended to be a little fun joke. do not ever use it in production, although you could try 
-> copying the [`files.go`](bun/files.go) which is really clean imo, but just change the panic handling to use 
-> the traditional go error handling.
+> go-bun is intended to be a little fun joke. do not ever use it in production. a proper version of the `files` interface that
+> sports a similar feel to bun's with a golang touch, feature-packed is available at [`siopao`](https://github.com/ShindouMihou/siopao).
 
 some little fun experimentation and remake of random stuff from other languages. initially, this was to remake the cool  
 interfaces that bun.sh had for files, but then expanded to figuring out how to remake stuff from other languages.
